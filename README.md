@@ -152,4 +152,4 @@ Export dát|16
 Nasadenie informačného systému do Cloudu|16
 Vyhľadanie OM na katastri|16
 Vygenerovanie a uloženie PDF z katastra pre OM|24
-Spolu|160
+Spolu|200
