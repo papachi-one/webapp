@@ -150,4 +150,6 @@ Formulár pre vyhľadávanie/filtrovanie Zamestnancov|2
 Import dát|16
 Export dát|16
 Nasadenie informačného systému do Cloudu|16
+Vyhľadanie OM na katastri|16
+Vygenerovanie a uloženie PDF z katastra pre OM|24
 Spolu|160
