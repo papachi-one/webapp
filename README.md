@@ -151,6 +151,7 @@ Import dát|16
 Export dát|16
 Nasadenie informačného systému do Cloudu|16
 Vyhľadanie OM na katastri|16
-Vygenerovanie a uloženie PDF z katastra pre OM|24
+Vygenerovanie PDF z katastra pre OM|20
+Ukladanie PDF z katastra do aplikacie|4
 Extrahovanie mapy OM z PDF a jej zobrazenie v aplikacii|16
 Spolu|216
